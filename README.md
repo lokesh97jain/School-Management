@@ -1,1 +1,1 @@
-# School-Management
+# Teacher and Student-Management
